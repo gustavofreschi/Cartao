@@ -38,6 +38,7 @@ body {
 
 
 
+
 @keyframes aparecer {
     from {
         opacity: 0;
@@ -90,7 +91,7 @@ body {
 
 
     iframe {
-        margin-top: 20%;
+        margin-top: 3%;
     }
 
 }
@@ -109,7 +110,7 @@ body {
 
 
     iframe {
-        margin-top: 40%;
+        margin-top: 20%;
     }
 
 }
